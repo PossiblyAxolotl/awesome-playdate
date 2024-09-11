@@ -178,6 +178,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Playdate Anticipation Jam Submissions (Unofficial. - Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries) - A first "pre-Playdate" 1-bit game jam with Playdate-inspired submissions.
 - [Playlate](https://github.com/downie/playlate) – A template for Playdate to explore Playdate SDK and build your games faster.
 - [Playnote Studio](https://github.com/jaames/playnote-studio) - An unofficial Flipnote Studio animation player for the Playdate.
+- [Rocket Bytes](https://git.possiblyaxolotl.com/PossiblyAxolotl/Rocket-Bytes)
 - [Six Card Golf](https://github.com/CGagnier/six-card-golf) - A love2d card game meant to be ported to Playdate.
 - [Sketch, Share, Solve](https://github.com/veu/sketch-share-solve) – Sketch, Share, Solve is a nonogram game for the Playdate.
 - [Panels](https://github.com/cadin/panels) – Build interactive comics for the Playdate console.
